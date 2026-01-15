@@ -11,7 +11,7 @@
 
 🚀 **Markeltree** is a technology-driven software company delivering modern, scalable, and AI-powered digital solutions for startups and enterprises worldwide.
 
-🌍 **Locations:** USA 🇺🇸 & Pakistan 🇵🇰  
+🌍 **Locations:** 2750 NW 3Ave Suite # 24 Miami, FL 33127
 🎯 **Mission:** Empower businesses through innovation, automation, and human-centered technology.
 
 ---
@@ -55,9 +55,9 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=nawaz0721&show_icons=true&theme=radical&hide_border=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nawaz0721&layout=compact&theme=radical&hide_border=true)
-![Streak](https://streak-stats.demolab.com?user=nawaz0721&theme=radical&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Markeltree&show_icons=true&theme=radical&hide_border=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Markeltree&layout=compact&theme=radical&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=Markeltree&theme=radical&hide_border=true)
 
 </div>
 
@@ -67,19 +67,11 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=nawaz0721&theme=radical&no-frame=true&column=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Markeltree&theme=radical&no-frame=true&column=4)
 
 </div>
 
----
 
-## 🚀 Featured Project
-
-<div align="center">
-  <a href="https://github.com/nawaz0721/Car-Rental">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nawaz0721&repo=Car-Rental&theme=radical" />
-  </a>
-</div>
 
 ---
 
